@@ -1,3 +1,4 @@
+![I am GitHub Readme Generator's creator](https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.jpg)
 <h1 align="center">Hey there 👋 I'm Pargat Singh</h1>
 <h3 align="center">A passionate developer</h3>
 
