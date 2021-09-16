@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.jpg)
-<h1 align="center">Hey there 👋 I'm Pargat Singh</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pargat Singh</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=0e75b6&style=flat" alt="pargat-dhanjal" /> </p>
