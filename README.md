@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.jpg" alt="cover" />
 </div>
 <h1 align="center">Hello Fellow < Developers/ > I'm Pargat Singh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h3 align="center">A passionate frontend developer from Mumbai, India</h3>
+<h3 align="center">A passionate developer from Mumbai, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=0e75b6&style=flat" alt="pargat-dhanjal" /> </p>
 <p align="center"> <a href="https://twitter.com/pargatishere" target="blank"><img src="https://img.shields.io/twitter/follow/pargatishere?logo=twitter&style=for-the-badge" alt="pargatishere" /></a> </p>
