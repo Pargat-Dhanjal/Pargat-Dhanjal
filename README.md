@@ -1,14 +1,14 @@
 <div align="center">
 <img width="100%" height = "100%" src="https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.jpg" alt="cover" />
 </div>
-<h1 align="center">Hello Fellow < Developers/ > I'm Pargat Singh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1 align="center">Hello Fellow < Developers/ > I'm Pargat Singh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"></h1>
 <h3 align="center">A passionate developer from Mumbai, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=0e75b6&style=flat" alt="pargat-dhanjal" /> </p>
 <p align="center"> <a href="https://twitter.com/pargatishere" target="blank"><img src="https://img.shields.io/twitter/follow/pargatishere?logo=twitter&style=for-the-badge" alt="pargatishere" /></a> </p>
 
 
-<h2> About Me <img src = "https://c.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" width = 50px></h2>
+<h2> About Me <img src = "https://c.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" width = "50"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -20,7 +20,7 @@
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source, Java 
 
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
 <a href= https://github.com/Pargat-Dhanjal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Pargat-Dhanjal?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Pargat-Dhanjal?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -45,7 +45,7 @@
 <a href= https://github.com/Pargat-Dhanjal?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="left">
 <a href="https://twitter.com/pargatishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pargatishere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pargat-singh-dhanjal-h3y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pargat-singh-dhanjal-h3y/" height="30" width="40" /></a>
@@ -58,7 +58,7 @@
 
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pargat-Dhanjal&count_private=true&show_icons=true&theme=dracula" />
@@ -67,6 +67,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pargat-Dhanjal&theme=dracula" />
 </a>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Pargat-Dhanjal&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="pargat-dhanjal" /></p>
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
