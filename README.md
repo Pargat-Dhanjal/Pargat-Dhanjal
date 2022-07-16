@@ -59,14 +59,19 @@
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> </h2>
-
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pargat-Dhanjal&count_private=true&show_icons=true&theme=dracula" />
-</a>
+</a>   
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pargat-Dhanjal&theme=dracula" />
-</a>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Pargat-Dhanjal&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="pargat-dhanjal" /></p>
+</a>  
+<br/>
+<br/>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Pargat-Dhanjal&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="pargat-dhanjal" /></p>  
+<br/>
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
