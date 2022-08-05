@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **College**
 
-- 🌱 I’m currently learning **Web Devlopement**
+- 🌱 And learning **Web Devlopement**
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source, Java
 
