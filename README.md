@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.jpg" alt="cover" />
+<img width="100%" src="https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/header.png" alt="header-img" />
 </div>
 <h1 align="center">Hello Fellow < Developers/ > I'm Pargat Singh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"></h1>
 <h3 align="center">A passionate developer from Mumbai, India</h3>
