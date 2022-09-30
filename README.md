@@ -20,8 +20,6 @@
 - 🌱 Trying out new stuff
 - 💬 Let's connect!
 
----
-
 <!-- Socials -->
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials 
