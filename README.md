@@ -96,4 +96,4 @@
 
 <!-- Holopin -->
 
-[![@pargat_dhanjal's Holopin board](https://holopin.io/api/user/board?user=pargat_dhanjal)](https://holopin.io/@pargat_dhanjal)
+[![@pargatdhanjal's Holopin board](https://holopin.io/api/user/board?user=pargatdhanjal)](https://holopin.io/@pargatdhanjal)
