@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="pargat-dhanjal" /> </p>
 
 
-<!-- About Me  -->
+<!-- About Me
 
 ## <img src = "https://c.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" width = "30"> About Me
 
@@ -17,7 +17,7 @@
 🌱 Learning new stuff<br>
 💬 Let’s have a chat!<br>
 
-<!-- Socials -->
+ Socials -->
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials 
 
