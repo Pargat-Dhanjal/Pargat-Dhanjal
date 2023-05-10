@@ -63,6 +63,9 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi)
+![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase) 
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
