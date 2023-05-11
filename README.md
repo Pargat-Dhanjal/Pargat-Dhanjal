@@ -21,7 +21,12 @@
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials 
 
-
+<a href="https://dribbble.com/StElectron" target="_blank">
+<img src=https://img.shields.io/badge/behance-E94C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/pargatsingh1" target="_blank">
+<img src=https://img.shields.io/badge/behance-0057FF.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/pargatishere" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
